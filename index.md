@@ -1,17 +1,52 @@
 # Titre principal
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tincidunt, sapien vitae euismod dapibus, elit ante consectetur dui, tincidunt commodo diam neque et nulla. Curabitur sit amet congue orci. Fusce elementum turpis eu lacus lobortis bibendum. Sed consequat, nisl sed finibus dictum, massa nulla sodales lorem, a mollis ex turpis vitae risus. Nulla quis vulputate mi. Vivamus consectetur dui erat, in fringilla eros fermentum sed. Vivamus a ligula tempor, laoreet mauris nec, auctor mi. Nullam ac ornare nibh, in tempor nunc.
+**TODO: description globale de la page / introduction**
 
 
-##  Titre secondaire
+## Formalisme de Dirac
 
-Nam elementum vitae eros eu eleifend. Donec sed est nec dui maximus dictum non eu arcu. Praesent feugiat, ex in gravida lobortis, enim felis lacinia libero, quis ullamcorper tellus tortor eget nulla. Sed in nibh et mi finibus laoreet volutpat non odio. Proin suscipit nunc at nulla maximus, a maximus quam eleifend. Maecenas enim dui, condimentum vel congue eu, vehicula ut leo.
+Les théories physiques à invariance conforme peuvent être attrayantes en physique, notamment en physique de la matière condensée où des symétries conformes peuvent apparaître, mais aussi en QCD, théorie quantique qui décrit l’interaction forte et donc des systèmes de quarks et gluons.
 
-- test list item 1
-- item 2
-- item 3
+Je vais ici essayer de vous présenter en quelques mots , sans entrer dans les détails, le groupe conforme associé à la symétrie du même nom, ainsi que son algèbre de Lie. Cela permettra par la suite de vous montrer qu’il est possible de trouver une action invariante conforme d’un système dynamique décrivant deux particules en interaction. Je montrerai ainsi comment trouver une telle action, et si le temps le permet, je discuterai de l’analyse de ce système dynamique à invariance de jauge en utilisant le formalisme de Dirac que j’essaierai de vous faire découvrir si vous ne le connaissez pas encore.
+
+Par G.L.
+
+**TODO: lien vidéo**
+
+**TODO: lien ressources**
 
 
-## titre secondaire
+## Les codes correcteurs d'erreurs
 
-blablabla *blablablba* **blablablbalb**
+L'échange d'informations est omniprésent dans notre vie moderne, que ce soit pour envoyer des courriels, effectuer des transactions bancaires, ou bien recevoir des données d'une sonde spatiale à des millions de kilomètres. Dans chacune de ces situations, il est primordial de recevoir, sans aucune erreur, l'information envoyée. Malheureusement, des erreurs de transmission involontaires se produisent, et si des données "pures" sont envoyées, les erreurs commises sont généralement indétectables. Les codes détecteurs et correcteurs d'erreurs ajoutent intelligemment de la redondance pour permettre, comme leur nom l'indique, de détecter, voire de corriger ces erreurs dans la limite du possible. Ils ont également une utilité dans le stockage de données, notamment sur CD/DVD en permettant aux disques rayés de rester lisibles. Cet exposé consistera à donner les principes mathématiques de base de ces codes, et plus particulièrement ceux des codes linéaires.
+
+Par J.T.
+
+**TODO: lien vidéo**
+
+**TODO: lien ressources**
+
+
+## Groupe de Poincaré et orbite Co-adjointe
+
+Les orbites Co-adjointe furent découvertes par Jean-Marie Souriau dont le but premier était de donner une interprétation géométrique à la mécanique analytique. Quelques années après le travail de Souriau, Konstant et Kirilov ont trouvé une correspondance entre ces objets géométriques et les représentations unitaires et irréductibles d'un groupe de Lie donné. La théorie des groupes de Lie et des représentations joue un rôle-clef en physique, elle permet d'exprimer mathématiquement les principes de symétrie et d'invariance d'une théorie. Le but de cette présentation sera de discuter brièvement la théorie de Lie, et de se familiariser avec la méthode des orbites.
+
+Par I.L. Ahlouche
+
+**TODO: lien vidéo**
+
+**TODO: lien ressources**
+
+
+## Transition de phase, groupe conforme, et théorie quantique des champs
+
+Les transitions de phase du second ordre sont présentes en cristallographie, en magnétisme mais aussi en physique fondamentale comme par exemple à la naissance de notre Univers ou en théorie quantique des champs. Ces systèmes sont décrits par des constantes universelles : des systèmes complètement différents vont se comporter de la même manière lors de la transition. Ils présenteront une invariance d'échelle et pourront ainsi être décrit dans le formalisme de la théorie conforme des champs.
+
+Je vous montrerais ce que l'on peut faire avec le formalisme du groupe de renormalisation et le lien entre transition du second ordre et théorie conforme des champs
+
+Par A. Scalea
+
+**TODO: lien vidéo**
+
+**TODO: lien ressources**
+
