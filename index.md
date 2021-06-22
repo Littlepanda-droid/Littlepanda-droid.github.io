@@ -1,4 +1,4 @@
-# Titre principal
+# Seminael
 
 **TODO: description globale de la page / introduction**
 
@@ -13,7 +13,8 @@ Par G.L.
 
 **TODO: lien vidéo**
 
-**TODO: lien ressources**
+- [Mécanique Diracienne](pdf-support/Mecanique_diracienne__action_inv_conforme.pdf)
+- [Systèmes Hamiltoniens sous contraintes](pdf-support/Systemes_hamiltoniens_sous_contraintes.pdf)
 
 
 ## Les codes correcteurs d'erreurs
