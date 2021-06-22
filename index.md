@@ -25,7 +25,8 @@ Par J.T.
 
 **TODO: lien vidéo**
 
-**TODO: lien ressources**
+- [Theorie des cordes](pdf-support/Theorie_des_codes_-_1e_partie.pdf)
+- [Qui est-ce ? Version Alice et Bob](pdf-support/JeuAliceEtBob.pdf)
 
 
 ## Groupe de Poincaré et orbite Co-adjointe
@@ -36,7 +37,7 @@ Par I.L. Ahlouche
 
 **TODO: lien vidéo**
 
-**TODO: lien ressources**
+- [Orbite co-adjointe](pdf-support/OrbiteCoadjoint.pdf)
 
 
 ## Transition de phase, groupe conforme, et théorie quantique des champs
@@ -49,5 +50,4 @@ Par A. Scalea
 
 **TODO: lien vidéo**
 
-**TODO: lien ressources**
-
+- [Conformal Field Theory and Second Order Phase Transition](pdf-support/CFT_et_transitions_de_phase_continues.pdf)
