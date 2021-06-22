@@ -37,7 +37,7 @@ Par I.L. Ahlouche
 
 **TODO: lien vidéo**
 
-- [Orbite co-adjointe](pdf-support/OrbiteCoadjoint.pdf)
+- [Orbite co-adjointe](pdf-support/Orbite_Coadjoint.pdf)
 
 
 ## Transition de phase, groupe conforme, et théorie quantique des champs
